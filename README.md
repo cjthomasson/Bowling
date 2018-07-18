@@ -1,1 +1,1 @@
-"#Bowling" 
+"Single player bowling score board"
